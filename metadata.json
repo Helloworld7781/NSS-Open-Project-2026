@@ -1,0 +1,5 @@
+{
+  "name": "NSS NGO Manager",
+  "description": "A comprehensive NGO registration and donation management system with separate workflows for Users and Admins, featuring data integrity protections and donation simulation.",
+  "requestFramePermissions": []
+}
